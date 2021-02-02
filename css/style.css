@@ -87,9 +87,11 @@ body {
 }
 
 /* PORTFOLIO ACTIVE */
+
 .active-btn {
   color: var(--accent-color-blue);
 }
+
 /* HERO */
 
 .hero-title {
